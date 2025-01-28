@@ -216,22 +216,3 @@ h1 {
     #input {
         font-size: 15px;
     }}
-footer{
-    background-color: red;
-   padding: 15px 0;
-   text-align: center;
-   font-family: 'Poppins', sans-serif;
- }
- footer .text span{
-   font-size: 17px;
-   font-weight: 400;
-   color: gold;
- }
- footer .text span a{
-   font-weight: 500;
-   color: gold;
- }
- footer .text span a:hover{
-   text-decoration: underline;
- }
-
