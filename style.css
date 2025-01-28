@@ -225,11 +225,11 @@ footer{
  footer .text span{
    font-size: 17px;
    font-weight: 400;
-   color: green;
+   color: white;
  }
  footer .text span a{
    font-weight: 500;
-   color: green;
+   color: white;
  }
  footer .text span a:hover{
    text-decoration: underline;
